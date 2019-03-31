@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/tb_rate_webtest.iml" filepath="$PROJECT_DIR$/tb_rate_webtest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/webTestRate/webTestRate.iml" filepath="$PROJECT_DIR$/webTestRate/webTestRate.iml" />
     </modules>
   </component>
 </project>
